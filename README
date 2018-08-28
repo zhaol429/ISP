@@ -1,0 +1,12 @@
+Inertially Stabilized Platform control based on Sliding Mode Control
+
+In this paper, a finite-time robust controller is designed based on 
+the terminal sliding mode for a two-axis gimbal ISP system. It is 
+shown that the controller designed in this paper can not only ensure 
+the system output tracking error converge to zero in a finite time, 
+but also provide a strong disturbance rejection performance. 
+In addition, the gain of the finite-time robust controller can be 
+significantly reduced with respect to the ones of linear sliding mode
+control schemes as well as PID control methods. Simulation results 
+will also be provided to demonstrate the effectiveness of the designed 
+controller.
